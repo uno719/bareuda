@@ -27,8 +27,8 @@
 이윤호
   오후 3:50
 # 피부타입(팀명: 바르다)
-![image](https://user-images.githubusercontent.com/25995055/178401309-2a2ffc86-ef45-439b-bfd8-6978312100bc.png)
-![image](![Uploading 스크린샷 2022-09-27 오후 4.12.43.png…])
+<img width="1224" alt="스크린샷 2022-09-27 오후 4 12 43" src="https://user-images.githubusercontent.com/99772968/192460193-bb7fb55c-d1c1-48e8-832a-f0a4fcca8242.png">
+
 ## 서비스 소개
 * 서비스명 :  BERT모델 기반 피부타입 별 화장품 추천 알고리즘
 * 서비스설명 :
