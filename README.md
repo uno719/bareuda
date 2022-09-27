@@ -1,10 +1,10 @@
-# bareuda[3기] 광주인공지능사관학교 검색
+# bareuda 스마트인재개발원
 
 
 
 
 
-[3기] 광주인공지능사관학교
+스마트인재 개발원
 
 
 
@@ -26,23 +26,23 @@
 
 이윤호
   오후 3:50
-# :클립:피부타입(팀명: 바르다)
+# 피부타입(팀명: 바르다)
 ![image](https://user-images.githubusercontent.com/25995055/178401309-2a2ffc86-ef45-439b-bfd8-6978312100bc.png)
-## :두_눈: 서비스 소개
-* 서비스명:  BERT모델 기반 피부타입 별 화장품 추천 알고리즘
-* 서비스설명:
+## 서비스 소개
+* 서비스명 :  BERT모델 기반 피부타입 별 화장품 추천 알고리즘
+* 서비스설명 :
 <br>
-## :날짜: 프로젝트 기간
+## 날짜: 프로젝트 기간
 2022.04.22 ~ 2022.06.03 (6주)
 <br>
-## :별: 주요 기능
+## 주요 기능
 * 기능1
 * 기능2
 * 기능3
 * 기능4
 * 기능5
 <br>
-## :곡괭이: 기술스택
+## 기술스택
 <table>
     <tr>
         <th>구분</th>
@@ -95,19 +95,19 @@
     </tr>
 </table>
 <br>
-## :톱니바퀴: 시스템 아키텍처(구조) 예시
+## 시스템 아키텍처(구조) 예시
 ![서비스 아키텍처](https://user-images.githubusercontent.com/25995055/169925538-15867bd9-aa0b-42fc-a39b-88981e926e51.png)
 <br>
-## :압정: SW유스케이스
+## SW유스케이스
 ![image](https://user-images.githubusercontent.com/25995055/178401023-9a015e66-aa6e-4d74-8564-9b1f9d306649.png)
 <br>
-## :압정: 서비스 흐름도
+## 서비스 흐름도
 ![image](https://user-images.githubusercontent.com/25995055/178401048-d6484bda-a2d7-40e1-998b-2bd195cd9f89.png)
 <br>
-## :압정: ER다이어그램
+## ER다이어그램
 ![image](https://user-images.githubusercontent.com/25995055/169925318-102784c2-893f-4fd7-bec9-a54c44b669d4.png)
 <br>
-## :데스크톱_컴퓨터: 화면 구성
+## 화면 구성
 ### 로그인/회원가입/회원괸리/회원수정/회원탈퇴
 ![image](https://user-images.githubusercontent.com/25995055/178401098-95f15a0e-a2de-415e-83d5-883bb4cb0656.png)
 <br>
@@ -117,7 +117,7 @@
 ### 일정/고객센터
 ![image](https://user-images.githubusercontent.com/25995055/178401150-861f0e93-0f40-4fae-98c1-2099bf513c8d.png)
 <br>
-## :아빠_엄마_아들_아들: 팀원 역할
+## 팀원 역할
 <table>
   <tr>
     <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
@@ -148,7 +148,7 @@
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
   </tr>
 </table>
-## :핸드볼을_하는_남성: 트러블슈팅
+## 트러블슈팅
 개념: 문제 해결을 위해 문제의 원인을 논리적이고 체계적으로 찾는 일이며 제품이나 프로세스의 운영을 재개
 프로젝트 진행하는 동안 발생했던 이슈 중 가장 기억에 남았던 문제와 해결 프로세스 나열(2~5가지 정도)
 * 문제1<br>
