@@ -1,31 +1,5 @@
-# 2021 K-Digital Training 인공진능 융합서비스 개발자 과정
-# 스마트인재개발원 bareuda 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+###2021 K-Digital Training 인공진능 융합서비스 개발자 과정
+### 스마트인재개발원 bareuda 
 # BERT 기반 화장품 리뷰 분석 서비스 (팀명: 바르다)
 <img width="1224" alt="스크린샷 2022-09-27 오후 4 12 43" src="https://user-images.githubusercontent.com/99772968/192460193-bb7fb55c-d1c1-48e8-832a-f0a4fcca8242.png">
 
@@ -57,6 +31,24 @@
 * 검색을 통해 두가지 화장품을 비교  
 * 회원가입, 좋아요 서비스 구현
 <br>
+## 서비스 내용
+<img width="1512" alt="스크린샷 2022-09-27 오후 5 38 33" src="https://user-images.githubusercontent.com/99772968/192668278-7a6ee488-beda-400c-ab31-e8021b32adf5.png">
+
+<img width="1512" alt="스크린샷 2022-09-27 오후 5 38 42" src="https://user-images.githubusercontent.com/99772968/192668316-787b53f2-2469-4cdd-91d1-24637689f45f.png">
+
+<img width="1512" alt="스크린샷 2022-09-27 오후 5 38 49" src="https://user-images.githubusercontent.com/99772968/192668345-67f56fb9-ad4f-43d4-bb23-1cadc72916f5.png">
+
+<img width="1512" alt="스크린샷 2022-09-27 오후 5 38 56" src="https://user-images.githubusercontent.com/99772968/192668375-70bcb8f0-ffaf-493b-b894-01153aedcd62.png">
+
+<img width="1512" alt="스크린샷 2022-09-27 오후 5 39 04" src="https://user-images.githubusercontent.com/99772968/192668414-b05d5d46-b142-4ca3-ac39-2cf8f9bfab83.png">
+
+<img width="1512" alt="스크린샷 2022-09-27 오후 5 39 11" src="https://user-images.githubusercontent.com/99772968/192668452-ecf22455-5aaf-4619-a39f-7b9f9c2d00ab.png">
+
+<img width="1512" alt="스크린샷 2022-09-27 오후 5 39 18" src="https://user-images.githubusercontent.com/99772968/192668520-9b6d6d2f-d062-41cd-85df-32310ebcdf5d.png">
+
+<img width="1512" alt="스크린샷 2022-09-27 오후 5 39 21" src="https://user-images.githubusercontent.com/99772968/192668559-130f3ff4-e21d-4ce9-9c57-a514fab685ef.png">
+
+
 ## 기술스택
 <table>
     <tr>
@@ -110,9 +102,6 @@
     </tr>
 </table>
 <br>
-## 시스템 아키텍처(구조) 예시
-![서비스 아키텍처](https://user-images.githubusercontent.com/25995055/169925538-15867bd9-aa0b-42fc-a39b-88981e926e51.png)
-<br>
 ## SW유스케이스
 <img width="1404" alt="스크린샷 2022-09-27 오후 5 23 57" src="https://user-images.githubusercontent.com/99772968/192474046-dbcb3265-33dd-4983-b24a-7f539a02ffe0.png">
 
@@ -146,11 +135,11 @@
     <td align="center"><strong>이윤호</strong></td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Frontend</b></td>
     <td align="center"><b>Backend</b></td>
     <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Deep Learning</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Frontend</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
@@ -168,27 +157,6 @@
 
 (141kB)
 https://user-images.githubusercontent.com/25995055/178401309-2a2ffc86-ef45-439b-bfd8-6978312100bc.png
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-내용을 입력해주세요.
-
-
-
 
 
 
